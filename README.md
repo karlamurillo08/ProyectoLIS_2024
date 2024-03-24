@@ -2,6 +2,7 @@
 Aplicacion de Tickets de Bus para control y registro de datos.
 
 # Autores
+LIS104 G01T
 - Mejía Bermúdez, Emily Fabiola MB210230
 - Murillo Urrutia, Karla Elizabeth MU192557
 
