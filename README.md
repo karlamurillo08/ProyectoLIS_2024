@@ -6,7 +6,7 @@ Aplicacion de Tickets de Bus para control y registro de datos.
 - Murillo Urrutia, Karla Elizabeth MU192557
 
 # Enlaces 
-Link de Notion: https://www.notion.so/team/0a22edd0-e544-4bc7-8e49-ec481ca2b13b/join
+Link de Notion: https://www.notion.so/team/ac1e2f1d-86b4-4716-8b94-366c1d5262a2/join
 
 Link de MockUps: 
 # Licencias Creative Commons
